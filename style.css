@@ -57,8 +57,9 @@ nav ul li a:hover::after{
     width: 100%;
 }
 .header-text{
-    margin-top: 20%;
+    margin-top: 14%;
     font-size: 30px;
+    text-align:center;
 }
 .header-text h1{
     font-size: 60px;
